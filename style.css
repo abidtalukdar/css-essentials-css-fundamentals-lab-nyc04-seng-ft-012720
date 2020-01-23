@@ -9,7 +9,7 @@ h1 {
 }
 
 nav {
-  text-align: center
+  text-align: center;
 }
 
 img {
@@ -17,4 +17,8 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+}
+
+figcaption {
+  text-align: center
 }
